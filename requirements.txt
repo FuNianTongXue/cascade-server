@@ -28,7 +28,7 @@ six==1.15.0
 splunk-sdk==1.6.15
 typing-extensions==3.7.4.3 ; python_version < '3.8'
 urllib3==1.26.3
-werkzeug==1.0.1
+werkzeug==2.2.3
 zipp==3.4.1
 zope.event==4.5.0
 zope.interface==5.2.0
